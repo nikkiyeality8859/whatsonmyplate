@@ -1,0 +1,78 @@
+.main-image{
+    background-image:url(../images/plate.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+   
+}
+.image-wrapper{
+    color:whitesmoke;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 40%;
+    left: 50%;
+    font-size: 30px;
+    font-family: 'Akaya Kanadaka', cursive;
+    border: 0ch;
+    overflow: auto;
+}
+h1,p.para{background-color:rgba(256,256,256,0.4);
+    color:black;
+    border:none;
+    border-radius: 2rem;
+    padding-left: 2rem;
+    outline: none;
+    text-align:center;
+}
+.chart{
+   
+    font-family: 'Akaya Kanadaka', cursive;
+    color:black;
+}
+h2.h{
+    font-size: 25px;
+    margin-left:10px ;
+    text-align: center;
+}
+.img{
+    float: left;
+    margin: 10px;
+    margin-top: 5px;
+    margin-bottom: 2px;
+    border:none;
+    padding: none;
+    height: 35%;
+    width: 35%;
+
+}
+.chart-t{
+    font-size: 18px;
+   
+}
+.three{
+    font-family: 'Akaya Kanadaka', cursive;
+    color:black;  
+}
+.carb,.protein,.fats{
+    font-size: 30px;
+    margin-left:10px ;
+    text-align: left;  
+}
+.im2,.im3,.im4{
+    float: left;
+    margin: 10px;
+    margin-top: 0px;
+    margin-bottom: 2px;
+    border:none;
+    padding: none;
+    height: 20%;
+    width: 20%;
+    outline-offset: none;  
+}
+.name,.names,.namess{
+    font-size: 18px;
+}
+.container{
+    border:2px solid black;
+}
